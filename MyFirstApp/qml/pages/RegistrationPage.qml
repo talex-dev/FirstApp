@@ -1,48 +1,6 @@
 import QtQuick 2.0
 import Sailfish.Silica 1.0
 
-//Page {
-//    property string name
-//    property string phone
-
-//    PageHeader { title: qsTr("Registration") }
-
-//    Column {
-//        anchors.centerIn: parent
-//        width: parent.width
-//        spacing: Theme.paddingLarge
-
-//        TextField {
-//            id: nameUser
-//            //anchors.centerIn: parent
-//            width: parent.width
-//            anchors.horizontalCenter: parent.horizontalCenter
-//            placeholderText: qsTr("Enter name")
-//            label: qsTr("Name")
-//            text: name
-//        }
-
-//        ComboBox {
-//            width: parent.width / 3*2
-//            anchors.horizontalCenter: parent.horizontalCenter
-//            //anchors.centerIn: parent
-//            label: qsTr("Topics")
-//            menu: ContextMenu {
-//                MenuItem { text: qsTr("Cars") }
-//                MenuItem { text: qsTr("News") }
-//            }
-//        }
-
-//        Button {
-//            text: qsTr("Register")
-//            anchors.horizontalCenter: parent.horizontalCenter
-//            onClicked: pageStack.pop()
-//            enabled: pageStack.depth > 1
-//        }
-//    }
-//}
-
-
 Dialog {
 
     property string name
