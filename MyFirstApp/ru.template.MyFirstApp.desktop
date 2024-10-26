@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=ru.template.MyFirstApp
+Exec=/usr/bin/ru.template.MyFirstApp
+Name=MyFirstApp
+Name[ru]=Первое Приложение
+
+[X-Application]
+Permissions=
+OrganizationName=ru.template
+ApplicationName=MyFirstApp
+ExecDBus=/usr/bin/ru.template.MyFirstApp
