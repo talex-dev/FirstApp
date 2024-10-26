@@ -11,6 +11,7 @@ SOURCES += \
 HEADERS += \
 
 DISTFILES += \
+    qml/pages/RegistrationPage.qml \
     rpm/ru.template.MyFirstApp.spec \
 
 AURORAAPP_ICONS = 86x86 108x108 128x128 172x172
