@@ -47,154 +47,154 @@
         <translation>MyFirstApp</translation>
     </message>
     <message>
-        <location filename="../qml/pages/MainPage.qml" line="41"/>
+        <location filename="../qml/pages/MainPage.qml" line="37"/>
         <source>Enter name</source>
-        <translation type="unfinished"></translation>
+        <translation>Enter name</translation>
     </message>
     <message>
-        <location filename="../qml/pages/MainPage.qml" line="42"/>
+        <location filename="../qml/pages/MainPage.qml" line="38"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Name</translation>
     </message>
     <message>
-        <location filename="../qml/pages/MainPage.qml" line="50"/>
+        <location filename="../qml/pages/MainPage.qml" line="46"/>
         <source>Enter phone</source>
-        <translation type="unfinished"></translation>
+        <translation>Enter phone</translation>
     </message>
     <message>
-        <location filename="../qml/pages/MainPage.qml" line="51"/>
+        <location filename="../qml/pages/MainPage.qml" line="47"/>
         <source>Phone</source>
-        <translation type="unfinished"></translation>
+        <translation>Phone</translation>
     </message>
     <message>
-        <location filename="../qml/pages/MainPage.qml" line="57"/>
+        <location filename="../qml/pages/MainPage.qml" line="52"/>
         <source>Registration</source>
-        <translation type="unfinished"></translation>
+        <translation>Registration</translation>
     </message>
     <message>
-        <location filename="../qml/pages/MainPage.qml" line="27"/>
+        <location filename="../qml/pages/MainPage.qml" line="25"/>
         <source>Registration completed!</source>
-        <translation type="unfinished"></translation>
+        <translation>Registration completed!</translation>
     </message>
 </context>
 <context>
     <name>RegistrationPage</name>
     <message>
-        <location filename="../qml/pages/RegistrationPage.qml" line="52"/>
+        <location filename="../qml/pages/RegistrationPage.qml" line="10"/>
         <source>Register</source>
-        <translation type="unfinished"></translation>
+        <translation>Register</translation>
     </message>
     <message>
-        <location filename="../qml/pages/RegistrationPage.qml" line="53"/>
+        <location filename="../qml/pages/RegistrationPage.qml" line="11"/>
         <source>Done</source>
-        <translation type="unfinished"></translation>
+        <translation>Done</translation>
     </message>
     <message>
-        <location filename="../qml/pages/RegistrationPage.qml" line="64"/>
+        <location filename="../qml/pages/RegistrationPage.qml" line="22"/>
         <source>Enter lastname</source>
-        <translation type="unfinished"></translation>
+        <translation>Enter lastname</translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/RegistrationPage.qml" line="23"/>
+        <source>Lastname</source>
+        <translation>Lastname</translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/RegistrationPage.qml" line="30"/>
+        <source>Enter name</source>
+        <translation>Enter name</translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/RegistrationPage.qml" line="31"/>
+        <source>Name</source>
+        <translation>Name</translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/RegistrationPage.qml" line="39"/>
+        <source>Enter surname</source>
+        <translation>Enter surname</translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/RegistrationPage.qml" line="40"/>
+        <source>Surname</source>
+        <translation>Surname</translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/RegistrationPage.qml" line="47"/>
+        <source>Enter phone</source>
+        <translation>Enter phone</translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/RegistrationPage.qml" line="48"/>
+        <source>Phone</source>
+        <translation>Phone</translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/RegistrationPage.qml" line="56"/>
+        <source>Enter email</source>
+        <translation>Enter email</translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/RegistrationPage.qml" line="57"/>
+        <source>Email</source>
+        <translation>Email</translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/RegistrationPage.qml" line="63"/>
+        <source>Topics</source>
+        <translation>Topics</translation>
     </message>
     <message>
         <location filename="../qml/pages/RegistrationPage.qml" line="65"/>
-        <source>Lastname</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/pages/RegistrationPage.qml" line="72"/>
-        <source>Enter name</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/pages/RegistrationPage.qml" line="73"/>
-        <source>Name</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/pages/RegistrationPage.qml" line="81"/>
-        <source>Enter surname</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/pages/RegistrationPage.qml" line="82"/>
-        <source>Surname</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/pages/RegistrationPage.qml" line="89"/>
-        <source>Enter phone</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/pages/RegistrationPage.qml" line="90"/>
-        <source>Phone</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/pages/RegistrationPage.qml" line="98"/>
-        <source>Enter email</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/pages/RegistrationPage.qml" line="99"/>
-        <source>Email</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/pages/RegistrationPage.qml" line="105"/>
-        <source>Topics</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../qml/pages/RegistrationPage.qml" line="107"/>
         <source>Cars</source>
-        <translation type="unfinished"></translation>
+        <translation>Cars</translation>
     </message>
     <message>
-        <location filename="../qml/pages/RegistrationPage.qml" line="108"/>
+        <location filename="../qml/pages/RegistrationPage.qml" line="66"/>
         <source>News</source>
-        <translation type="unfinished"></translation>
+        <translation>News</translation>
     </message>
     <message>
-        <location filename="../qml/pages/RegistrationPage.qml" line="109"/>
+        <location filename="../qml/pages/RegistrationPage.qml" line="67"/>
         <source>Politics</source>
-        <translation type="unfinished"></translation>
+        <translation>Politics</translation>
     </message>
     <message>
-        <location filename="../qml/pages/RegistrationPage.qml" line="110"/>
+        <location filename="../qml/pages/RegistrationPage.qml" line="68"/>
         <source>Science</source>
-        <translation type="unfinished"></translation>
+        <translation>Science</translation>
     </message>
     <message>
-        <location filename="../qml/pages/RegistrationPage.qml" line="111"/>
+        <location filename="../qml/pages/RegistrationPage.qml" line="69"/>
         <source>Weather</source>
-        <translation type="unfinished"></translation>
+        <translation>Weather</translation>
     </message>
     <message>
-        <location filename="../qml/pages/RegistrationPage.qml" line="112"/>
+        <location filename="../qml/pages/RegistrationPage.qml" line="70"/>
         <source>Art</source>
-        <translation type="unfinished"></translation>
+        <translation>Art</translation>
     </message>
     <message>
-        <location filename="../qml/pages/RegistrationPage.qml" line="119"/>
-        <location filename="../qml/pages/RegistrationPage.qml" line="125"/>
+        <location filename="../qml/pages/RegistrationPage.qml" line="77"/>
+        <location filename="../qml/pages/RegistrationPage.qml" line="83"/>
         <source>Agree</source>
-        <translation type="unfinished"></translation>
+        <translation>Agree</translation>
     </message>
     <message>
-        <location filename="../qml/pages/RegistrationPage.qml" line="119"/>
-        <location filename="../qml/pages/RegistrationPage.qml" line="125"/>
+        <location filename="../qml/pages/RegistrationPage.qml" line="77"/>
+        <location filename="../qml/pages/RegistrationPage.qml" line="83"/>
         <source>I don&apos;t agree</source>
-        <translation type="unfinished"></translation>
+        <translation>I don&apos;t agree</translation>
     </message>
     <message>
-        <location filename="../qml/pages/RegistrationPage.qml" line="120"/>
+        <location filename="../qml/pages/RegistrationPage.qml" line="78"/>
         <source>Consent to the processing of personal data.</source>
-        <translation type="unfinished"></translation>
+        <translation>Consent to the processing of personal data.</translation>
     </message>
     <message>
-        <location filename="../qml/pages/RegistrationPage.qml" line="126"/>
+        <location filename="../qml/pages/RegistrationPage.qml" line="84"/>
         <source>consent to mailing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Consent to mailing.</translation>
     </message>
 </context>
 </TS>
